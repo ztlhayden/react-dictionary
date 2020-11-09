@@ -5,6 +5,8 @@ const Button = styled.button`
   background-color: var(--color-primary);
   color: var(--color-white);
   border-radius: 7px;
+  font-size: 1.3em;
+  margin: 0.3em auto;
 `;
 
 export default Button;

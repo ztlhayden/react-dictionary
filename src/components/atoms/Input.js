@@ -1,7 +1,7 @@
 import React from "react";
 
-import TextInput from "../atoms/TextInput";
-import Button from "../atoms/Button";
+import TextInput from "./TextInput";
+import Button from "./Button";
 
 const Input = () => {
   return (

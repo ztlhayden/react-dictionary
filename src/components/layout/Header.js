@@ -7,7 +7,6 @@ const HeaderWrapper = styled.header`
   color: var(--color-white);
   padding: 1em;
   margin-bottom: 2em;
-  width: 100%;
 `;
 
 const Header = () => {

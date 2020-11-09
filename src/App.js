@@ -9,6 +9,7 @@ import Word from "./components/Word/Word";
 const MainWrapper = styled.main`
   width: 80%;
   margin: 0 auto;
+  min-height: calc(100vh - 248px);
 `;
 
 export default function App() {

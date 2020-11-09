@@ -2,11 +2,10 @@
   --font-family: Lato;
   --color-white: white;
   --color-light-grey: lightgrey;
-  --color-grey: grey;
-  --color-black: black;
   --color-primary: blueviolet;
 }
 
 body {
   font-family: var(--font-family);
+  margin: 0;
 }
