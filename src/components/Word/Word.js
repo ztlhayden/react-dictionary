@@ -45,7 +45,7 @@ class Word extends React.Component {
     return (
       <div>
         <div className="input-wrapper">
-          <label for="word-input" hidden>
+          <label hmltfor="word-input" hidden>
             Word
           </label>
           <TextInput
